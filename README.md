@@ -1,2 +1,2 @@
-# DSAClassCodes
-This repository has all the codes done in DSA class.
+# Data Structure and Algorithms
+This repository has all important codes
