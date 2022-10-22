@@ -32,7 +32,7 @@ public class QuickSort {
             }
         }
 
-        // now pivot is at correct place
+        // now pivot is at correct position
         quickSort(nums, low, end);
         quickSort(nums, start, high);
     }
